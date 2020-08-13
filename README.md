@@ -5,7 +5,7 @@
 
 ---
 
-[![Hue's github stats](https://github-readme-stats.vercel.app/api?username=hue9181)](https://github.com/hue9181/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hue9181/hue9181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
